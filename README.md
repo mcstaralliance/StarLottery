@@ -1,5 +1,2 @@
-# BetterLottery-Reloaded
-BetterLottery插件重置版,基于Bukkit1.12.2 API,理论向上兼容
-
-指令:
-/bl
+# StarLottery
+BetterLottery-Reloaded 插件重置版，基于 Bukkit 1.18.2 API。
