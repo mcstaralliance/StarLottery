@@ -1,0 +1,13 @@
+name: StarLottery
+version: ${project.version}
+main: com.mcstaralliance.starlottery.StarLottery
+authors: [AmemiyaSigure, DoraLY, LDS_XiaoYe]
+description: A reloaded version of BetterLotteryReloaded
+commands:
+  sl:
+    permission: sl.admin
+permissions:
+  sl.use:
+    default: not op
+  sl.admin:
+    default: op
